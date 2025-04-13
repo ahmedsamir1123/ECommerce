@@ -14,8 +14,8 @@ A modern, scalable e-commerce application built with **React**, **TypeScript**, 
 ---
 ## 📁 Project Structure
 
-📦src
-├── 📂components
+📦src/
+├── 📂components/
 │   ├── 📂Cart
 │   ├── 📂Checkout
 │   ├── 📂Home
@@ -26,14 +26,14 @@ A modern, scalable e-commerce application built with **React**, **TypeScript**, 
 │   ├── 📂Product
 │   ├── 📂register
 │   └── 📂SingleProduct
-├── 📂redux
-│   ├── 📂auth
+├── 📂redux/
+│   ├── 📂auth/
 │   │   └── 📄authSlice.tsx
-│   ├── 📂cart
+│   ├── 📂cart/
 │   │   └── 📄cartSlice.tsx
 │   └── 📄store.tsx
-├── 📂assets
-│   └── 📂images
+├── 📂assets/
+│   └── 📂images/
 ├── 📄App.tsx
 ├── 📄index.css
 └── 📄main.tsx
