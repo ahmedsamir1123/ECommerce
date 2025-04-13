@@ -48,9 +48,7 @@ src/
 ├── App.tsx
 ├── index.css
 └── main.tsx
-
----
-
+```
 ## ✅ Features
 
 - 🔍 Product search & filtering
