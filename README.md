@@ -12,7 +12,7 @@ A modern, scalable e-commerce application built with **React**, **TypeScript**, 
 - **Tooling**: Vite / Webpack, ESLint, Prettier  
 
 ---
-# 📁 Project Structure
+## 📁 Project Structure
 
 📦src
 ├── 📂components
@@ -37,4 +37,20 @@ A modern, scalable e-commerce application built with **React**, **TypeScript**, 
 ├── 📄App.tsx
 ├── 📄index.css
 └── 📄main.tsx
+
+---
+
+## ✅ Features
+
+- 🔍 Product search & filtering
+- 🛒 Shopping cart with quantity management
+- 💳 Checkout page
+- 📦 Dynamic product loading via API
+- 🧠 State management using Redux
+- 🧪 Ready for testing integration
+
+## Demo
+https://e-commerce-alpha-green-53.vercel.app/
+
+
 
