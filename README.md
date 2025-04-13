@@ -14,29 +14,40 @@ A modern, scalable e-commerce application built with **React**, **TypeScript**, 
 ---
 ## 📁 Project Structure
 
-📦src/
-├── 📂components/
-│   ├── 📂Cart
-│   ├── 📂Checkout
-│   ├── 📂Home
-│   ├── 📂Layout
-│   ├── 📂Loader
-│   ├── 📂Login
-│   ├── 📂Navbar
-│   ├── 📂Product
-│   ├── 📂register
-│   └── 📂SingleProduct
-├── 📂redux/
-│   ├── 📂auth/
-│   │   └── 📄authSlice.tsx
-│   ├── 📂cart/
-│   │   └── 📄cartSlice.tsx
-│   └── 📄store.tsx
-├── 📂assets/
-│   └── 📂images/
-├── 📄App.tsx
-├── 📄index.css
-└── 📄main.tsx
+```bash
+src/
+├── components/
+│   ├── Cart/
+│   │   └── Cart.tsx
+│   ├── Checkout/
+│   │   └── Checkout.tsx
+│   ├── Home/
+│   │   └── Home.tsx
+│   ├── Layout/
+│   │   └── Layout.tsx
+│   ├── Loader/
+│   │   └── Loader.tsx
+│   ├── Login/
+│   │   └── Login.tsx
+│   ├── Navbar/
+│   │   └── Navbar.tsx
+│   ├── Product/
+│   │   └── Product.tsx
+│   ├── register/
+│   │   └── register.tsx
+│   └── SingleProduct/
+│   │   └── SingleProduct.tsx
+├── redux/
+│   ├── auth/
+│   │   └── authSlice.tsx
+│   ├── cart/
+│   │   └── cartSlice.tsx
+│   └── store.tsx
+├── assets/
+│   └── images/
+├── App.tsx
+├── index.css
+└── main.tsx
 
 ---
 
