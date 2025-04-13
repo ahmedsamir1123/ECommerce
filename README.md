@@ -12,7 +12,7 @@ A modern, scalable e-commerce application built with **React**, **TypeScript**, 
 - **Tooling**: Vite / Webpack, ESLint, Prettier  
 
 ---
-## 📁 Project Structure
+# 📁 Project Structure
 
 📦src
 ├── 📂components
